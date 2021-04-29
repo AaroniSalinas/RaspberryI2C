@@ -1,4 +1,4 @@
-# RaspberryI2C4
+# Raspberry + 24LC256 (I2C)
 
 Guía paso a paso para el envío de 20 datos, usando Raspberry y una memoria 24LC256.
 
