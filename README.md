@@ -22,7 +22,7 @@ Desarrollar un programa en Raspberry que permita realizar la siguiente tarea:
 
 5. Finaliza el programa
 
-Puedes visitar el [wiki](https://github.com/AaroniSalinas/ModuloComandos/wiki) para más información.
+Puedes visitar el [wiki](https://github.com/AaroniSalinas/RaspberryI2C/wiki) para más información.
 
 **Equipo Dinamita**
 - Nashely Chan
