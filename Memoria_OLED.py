@@ -264,7 +264,7 @@ for i in range(1,26):
         draw.text((x, top + 16), "Suma Nuevos", font = font, fill = 255)
         draw.text((x, top + 24), "" + str(sumaPar), font = font, fill = 255)
         time.sleep(5)
-        print(sumaPar)
+print(sumaPar)
 
 #Arreglo final de las localidades y datos        
 addressT = address
